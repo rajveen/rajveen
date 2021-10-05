@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a graduate computer science student at Dalhousie University. Currently, I am in the 4th term studying some advanced concepts in Web Development and Network Security. In my previous terms, I have enjoyed learning, experimenting and exploring the field of Data Analytics, Deep Learning, Cloud Computing, and Software Development. I have been a part of many group projects some of which I have showcased here. As a graduate student, I have honed my skills and picked up some new ones.
+I am a graduate computer science student at Dalhousie University. Currently, I am in the 4th term studying some advanced concepts in Web Development and Network Security. In my previous terms, I have enjoyed learning, experimenting and exploring the field of Data Analytics, Deep Learning, Cloud Computing, and Software Development. I have been a part of many group projects some of which I have showcased here.
 
 <!--
 **rajveen/rajveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
